@@ -2,7 +2,7 @@
 
 
 
-I'm Jenee Smith, a software engineer at Microsoft. I work on improving marketing experiences for Microsoft users. 💞️
+I'm Jenee Smith, a software engineer at Microsoft. I work on improving marketing experiences for Microsoft small business users. 💞️
 
 My personal Github: https://github.com/jeneesmith1  \
 My personal portfolio: https://www.jeneesmith.com/  \
